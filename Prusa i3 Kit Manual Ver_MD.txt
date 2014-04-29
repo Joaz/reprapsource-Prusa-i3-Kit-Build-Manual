@@ -1,15 +1,13 @@
-#Prusa i3 Kit updated version
-#(Built Manual)  
+#Prusa i3 Kit 5 Years Reprapsource Edition Build Manual
 
 #Unboxing
 ##Tools needed:
 Something to open a cardboard box
-##Parts:
-Prusa i3 Kit
 
 ##To Do:
 Go you little rascal and open the box. It feels a little bit like christmas, but better, because you get something you really like and not just another pair of socks ;-).
 
+FIXME: Updated content picture
 [<img src="Prev/IMG_0396.JPG">](Large/IMG_0396.JPG)
 
 #Components
@@ -96,184 +94,33 @@ printed plastic parts overview
 
 [Foto Endstops!!!!!]  
 
-#Solder Heatbed
+
+#Assemble Extruder idler
 ##Tools needed:
-Soldering iron  
-Wire cutter  
-Wire stripper  
-
-##Parts:  
-[<img src="Prev/IMG_0425.JPG">](Large/IMG_0425.JPG)  
-Heatbed
-Red & black silicone wires (1,5sq mm) (The thick ones in the clear plastic bag.)
-
-##To Do:
-[<img src="Prev/IMG_0428.JPG">](Large/IMG_0428.JPG)  
-[<img src="Prev/IMG_0429.JPG">](Large/IMG_0429.JPG)  
-1. Strip one end of each heatbed cable, twist the strands and tin it. (Strip the other end of each cable and twist the strands only.)  
-
-[<img src="Prev/IMG_0434.JPG">](Large/IMG_0434.JPG)  
-2. Tin the pads of the heatbed by heating them and applying some solder.  
-
-[<img src="Prev/IMG_0432.JPG">](Large/IMG_0432.JPG)    
-3. To connect the cables, place the cable ends on the tinned pads and apply heat. (Add additional solder if necessary)  
-
-[<img src="Prev/IMG_0436.JPG">](Large/IMG_0436.JPG)  
-4. Make sure the cable is firmly attached to pad before removing heat. After removing the heat, hold the cable in place as it will take several seconds for the solder to cool.  
-5. Put the heatbed aside.
-
-**WARNING:** Do not tin any cables that are screwed to the electronics! This will result in poor connections and is dangerous.
- 
-#Solder Hotend  
-##Tools needed:
-Soldering iron  
-Wire cutter  
-Wire stripper  
-A pair of scissors  
-polyimide tape  
-
-##Parts:  
-[<img src="Prev/IMG_0437.JPG">](Large/IMG_0437.JPG)  
-Hotend  
-Power resistor  
-Thermistor  
-Thermistor connection cable  
-Red & black silicone wire (The thin one in the plastic bag with a white back)  
-PTFE tubing (small and large)  
-
-##To Do:
-[<img src="Prev/IMG_0439.JPG">](Large/IMG_0439.JPG)  
-1. Cut off one of the thermistor cable pin connectors.  
-
-[<img src="Prev/IMG_0440.JPG">](Large/IMG_0440.JPG)  
-2. Strip the cable ends and twist the strands.  
-
-[<img src="Prev/IMG_0475.JPG">](Large/IMG_0475.JPG)  
-3. Cut two short lengths of the small tubing and slide them onto the thermistor legs, leaving about a cm on each leg uncovered.  
-
-[<img src="Prev/IMG_0477.JPG">](Large/IMG_0477.JPG)  
-[<img src="Prev/IMG_0478.JPG">](Large/IMG_0478.JPG)    
-4. Twist one end of the thermistor connection cable around the exposed part of the thermistor leg and solder it in place. Make sure to make the twist close enough to the thermistor that the tubing cannot move.  
-
-[<img src="Prev/IMG_0479.JPG">](Large/IMG_0479.JPG)  
-5. Repeat with the other cable end and the other thermistor leg.  
-
-[<img src="Prev/IMG_0481.JPG">](Large/IMG_0481.JPG)  
-6. Cut off a short strip of polyimide tape and wrap it around each of the solder joints several times.  
-7. Tape the two polyimide tape covered joints together.  
-
-[<img src="Prev/IMG_0469.JPG">](Large/IMG_0469.JPG)  
-8. Proceed similar with the power resistor. Strip the ends of the silicone wire and twist the strands.  
-9. Cut two short lengths of the big tubing and slide them onto the power resistor legs, leaving about a cm on each leg uncovered.  
-
-[<img src="Prev/IMG_0470.JPG">](Large/IMG_0470.JPG)  
-[<img src="Prev/IMG_0471.JPG">](Large/IMG_0471.JPG)  
-10. Twist one end of the silicone cable around the exposed part of the power resistor leg and solder it in place. Make sure to make the twist close enough, so that the tubing cannot move.  
-
-[<img src="Prev/IMG_0472.JPG">](Large/IMG_0472.JPG)  
-11. Push the resistor in the hotend.  
-
-[<img src="Prev/IMG_0473.JPG">](Large/IMG_0473.JPG)  
-12. Repeat with the other wire and the other resistor leg.  
-
-[<img src="Prev/IMG_0482.JPG">](Large/IMG_0482.JPG)  
-13. Place the thermistor in the hole at the hotend.  
-
-[<img src="Prev/IMG_0484.JPG">](Large/IMG_0484.JPG)  
-14. Cut off a short strip of polyimide tape and wrap it around each of the solder joints several times.  
-15. Use a strip of polyimide tape to secure the thermistor to the hotend. Wrap around several times, but make sure to keep the nozzle clear. (Do not economise with the polyimide tape.) It is important, that the thermistor is kept in place!  
-16.  Use a polyimide tape to attach the thermistor legs to the hotend and create a strain-relief by the way.  
-17. Bend resistor legs along the body.  
-
-#Assemble Extruder body
-##Tools needed:
-Drill (3,2 mm)  
-Hex Wrench (1,5 & 2,5)    
-Threadlocker  
+Hex Wrench (2,5)    
 
 ##Parts:
-[<img src="Prev/IMG_0442.JPG">](Large/IMG_0442.JPG)  
-Metal Gear System Hardware Pack  
+# FIXME: picture
 Idler  
-Extruder Body  
-Nema 17 Motor  
+608ZZ bearing
+M3 nut
 
 ##To Do:
-[<img src="Prev/IMG_0462.JPG">](Large/IMG_0462.JPG)  
-1. Before assembly, drill out the filament channel hole with a 3,2mm or 3,5mm drill. Test if your filament goes through it easily.  
-
-[<img src="Prev/IMG_0443.JPG">](Large/IMG_0443.JPG)  
-[<img src="Prev/IMG_0444.JPG">](Large/IMG_0444.JPG)  
-2. Push the two small 625 bearings into the slots
-
-[<img src="Prev/IMG_0449.JPG">](Large/IMG_0449.JPG)  
-[<img src="Prev/IMG_0453.JPG">](Large/IMG_0453.JPG)  
-3. Attach the stepper motor using 3x M3x10 bolts. Slide on the small 14 teeth gear onto the motor shaft, with the bigger side facing towards the motor, but don't tighten it yet.  
-
-[<img src="Prev/IMG_0466.JPG">](Large/IMG_0466.JPG)  
-[<img src="Prev/IMG_0467.JPG">](Large/IMG_0467.JPG)  
-[<img src="Prev/IMG_0468.JPG">](Large/IMG_0468.JPG)  
-4. Find the M4x40 bolt, slide it in the 625 bearing from the left. Add: A washer, 20 teeth gear (teeth side facing away from the bearing), big 80 teeth gear (with the gear side facing towards the wall where the stepper motor is mounted), A  washer. Put the washer on the big gear before you begin and face the motor side up.  
-
-[<img src="Prev/IMG_0463.JPG">](Large/IMG_0463.JPG)  
-5. Move the gear on the motor to a position where it fully engages the big gear. Tighten the grub screw.  
-6. When the bolt is fully inserted, you need to tighten the grub screws on the gears. Push each gear towards its next bearing to ensure they don't have any play along the axis. When happy, tighten the grub screws really well. Threadlocker is recommended.  
-
 [<img src="Prev/IMG_0455.JPG">](Large/IMG_0455.JPG)  
-7. Push a M3 nut into the hexagonal slot on the Idler.  
+1. Push a M3 nut into the hexagonal slot on the Idler.  
 
 [<img src="Prev/IMG_0458.JPG">](Large/IMG_0458.JPG)  
 [<img src="Prev/IMG_0459.JPG">](Large/IMG_0459.JPG)  
-8. Slide the 608 bearing on the M8x20 grub screw  
+2. Slide the 608 bearing on the M8x20 grub screw  
 
 [<img src="Prev/IMG_0460.JPG">](Large/IMG_0460.JPG)  
-9. Push the grub into the idler.  
+3. Push the grub into the idler.  
 
+# FIXME this is wrong here
 [BILD FEHLT]  
 10. Mount the Idler onto the extruder body by a M3x25 bolt. Don't tighten it too much, make sure it can move freely along the hinge.  
 11. Slide the M4x60 bolt through one of the hole on the wall opposite to the idler. Slide it through the idler, add the spring and the wing nut.  
 
-#Groovemount/Fan holder
-##Tools needed:
-Zip ties  
-Screwdriver (PH1)  
-
-##Parts:
-[<img src="Prev/IMG_0486.JPG">](Large/IMG_0486.JPG)  
-Groovemount  
-Hotend  
-Fan  
-4 x Screws (from Metal Gear System Hardware Pack)  
-
-##To Do:
-[<img src="Prev/IMG_0487.JPG">](Large/IMG_0487.JPG)  
-1. Push the hotend in the large U-shaped groove. (The nozzle points to the open side of the part.)  
-2. Combine the cables and lead them to the small U-shaped groove.  
-
-[<img src="Prev/IMG_0488.JPG">](Large/IMG_0488.JPG)  
-3. Slide a zip tie through the opening over the small U-shaped groove and bind your small cable loom to the part. (Tie it tight because this is a strain relief.)  
-
-[<img src="Prev/IMG_0489.JPG">](Large/IMG_0489.JPG)  
-[<img src="Prev/IMG_0490.JPG">](Large/IMG_0490.JPG)  
-4. Connect the fan with 4 screws  
-
-#Connect Groove Mount und Extruder Body
-##Tools needed:
-Zip ties  
-Hex Wrench (2,5)  
-
-##Parts:
-[<img src="Prev/IMG_0492.JPG">](Large/IMG_0492.JPG)  
-Groovemount  
-Extruder Body  
-2 x Screw + Nut  
-
-##To Do:
-[<img src="Prev/IMG_0494.JPG">](Large/IMG_0494.JPG)  
-1. Slide the Hotend bottom into the Extruder body, so that the fan is facing in the same direction as the motor.  
-2. Put nuts into the nut traps of the Groovemount.  
-3. Then use the two screws and connect the Groovemount with the Extruder.  
-4. Route the cables out to the motor side, and ziptie them to the motor wires.  
 
 #Y axis base frame assembly
 ##Tools needed:
@@ -730,7 +577,7 @@ gt2 belt
 [<img src="Prev/IMG_0634.JPG">](Large/IMG_0634.JPG)  
 6. Push in the belt.  
 
-#Fix X-Axis bearings
+#Fixate X-Axis bearings
 ##Tools needed:
 Hex wrench (2,5)  
 
@@ -782,35 +629,6 @@ Patience this is a bit fiddly
 
 **IMPORTANT:** Handle the threaded M5 rods with care. They are essential for a good working Z-Axis.
 
-#Heatbed thermistor
-##Tools needed:
-Sidecutter  
-Wire stripper  
-Soldering iron and solder  
-polyimide tape  
-
-##Parts:
-[<img src="Prev/IMG_2717.JPG">](Large/IMG_2717.JPG)  
-[<img src="Prev/IMG_2720.JPG">](Large/IMG_2720.JPG)  
-1 x thermistor cable  
-1 x thermistor  
-Heatbed  
-
-##To Do:
-[<img src="Prev/IMG_2723.JPG">](Large/IMG_2723.JPG)  
-1. Use sidecutter and shorten thermistor legs by half.  
-2. Cut off one connector of the thermistor cable.  
-3. Strip the two cable ends of the thermistor cable.  
-
-[<img src="Prev/IMG_2725.JPG">](Large/IMG_2725.JPG)  
-4. Twist the one cable end around a thermistor leg and solder them together.  
-5. Repeat with other cable end and thermistor leg.  
-
-[<img src="Prev/IMG_2726.JPG">](Large/IMG_2726.JPG)  
-6. Cover the solder joints with polyimide tape.  
-
-[<img src="Prev/IMG_2736.JPG">](Large/IMG_2736.JPG)  
-7. Place the thermistor on the heatbed bottom and attach it with several stripes of polyimide tape.  
 
 #Attach heatbed to print bed base
 ##Tools needed:
@@ -860,19 +678,6 @@ small cable bundle tube
 [<img src="Prev/IMG_2782f.JPG">](Large/IMG_2782f.JPG)  
 4. Watch the graphic for the recommended cable run.  
 
-[<img src="Prev/IMG_2788.JPG">](Large/IMG_2788.JPG)  
-5. Cut off 5 motor cable plugs and strip the wires. (You will have some spare plugs left.)  
-
-[<img src="Prev/IMG_2791.JPG">](Large/IMG_2791.JPG)  
-[<img src="Prev/IMG_2792.JPG">](Large/IMG_2792.JPG)  
-6. Cut off shrink tubing for each wire. Slip the tubing over the wire ends.  
-
-[<img src="Prev/IMG_2794.JPG">](Large/IMG_2794.JPG)  
-7. Solder the plugs to the motor cables. Cover the solder joints with the shrink tubing and apply some heat.  
-
-[<img src="Prev/IMG_2796.JPG">](Large/IMG_2796.JPG)  
-[<img src="Prev/IMG_2800.JPG">](Large/IMG_2800.JPG)  
-8. Use the small cable bundle tube to bundle the motor wires. Some motor cables can be combined into one cable loom with the large cable bundle tube.  
 
 #Attach Extruder
 ##Tools needed:
@@ -947,36 +752,6 @@ ELECTRONICS PHOTO!
 2. Attach thermistor cables.  
 3. Attach heatbed.  
 
-#Prepare power supply
-##Tools needed:
-Wire cutter  
-Soldering iron  
-Solder  
-
-##Parts:
-Shrink Tube  
-Power supply  
-
-##To Do:
-[<img src="Prev/DSC00993.JPG">](Large/DSC00993.JPG)  
-[<img src="Prev/DSC00996.JPG">](Large/DSC00996.JPG)  
-1. Pick a cable loom containing 3 black and 3 yellow wires. Cut of the plug.  
-
-[<img src="Prev/DSC00999.JPG">](Large/DSC00999.JPG)  
-2. Strip the six wires 0,5 cm.  
-
-[<img src="Prev/DSC01000.JPG">](Large/DSC01000.JPG)  
-3. Twist two yellow and two black wires together thoroughly.  
-
-[<img src="Prev/DSC01002.JPG">](Large/DSC01002.JPG)  
-4. Take the power connector plug from the electronics and screw in tight the black and yellow wires.  
-5. The order is double yellow, double black, single yellow, single black.  
-6. The final step to make the power supply working is to connect the power on signal to ground.  
-
-[<img src="Prev/DSC01004.JPG">](Large/DSC01004.JPG)  
-7. Search the green wire and cut it.  
-8. Search a black wire and cut it.  
-9. Strip these wires and twist them. Solder the joint together. Cover the joint with shrink tubing. (PICTURE MISSING!)  
 
 #Attach power supply to printer frame
 ##Tools needed:
@@ -1045,28 +820,17 @@ Brain
 
 ##Parts:
 USB cable  
-[Marlin 3D Printer Firmware](https://github.com/ErikZalm/Marlin)  
-[Arduino Software](http://arduino.cc/en/main/software)  
 [Printrun](https://github.com/kliment/Printrun)  
 [Slic3r](http://slic3r.org)  
 
 ##To Do:
 1. Follow the links and load down the software for your OS.  
-2. First you need to flash your electronics with the right firmware. Therefore you need Marlin and the Arduino software for the flashing.  
-3. When you have installed the software, use the usb cable and connect the printer with your PC. You should now see a green LED flashing on your electronics.  
-4. Start the arduino software.  
-5. Click „File“ in the menu and chose „Open“. Search the directory of your unzipped firmware and select the file „Configuration.h“.  
-6. Under „Tools/Board“ „Arduino Mega 2560 or Mega ADK“ must be selected.  
-7. Chose the right serial port under „Tools/Serial port“.  
-8. Then choose „File/Upload“. The frimware will now be uploaded to your electronics.  
-9. You will get the the message „Upload complete“, if everything works fine.  
 
 #Motor check
 ##Tools needed:
 Eye-hand coordination  
 
 ##Parts:
-Electronics with proper firmware  
 Installed Printrun (Installing printrun means simply unzipping the file into a folder.)  
 
 ##To Do:
@@ -1111,13 +875,5 @@ Printrun
 6. If you find the right position, move the z-endstop so that it is pressed by the x-motor carriage. This is now you z-home postion.  
 
 #Config slic3r for printing
-##Tools needed:
-Tools  
 
-##Parts:
-Parts  
 
-##To Do:
-1. blablablablablablbalbalbalbalbalblabalbalblablablablablablablablablablabalbalablbalblabal
-2. 
-Large
