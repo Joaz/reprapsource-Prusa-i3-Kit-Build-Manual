@@ -1,0 +1,11 @@
+
+This is a temporary list of pictures that are missing in the doc
+
+#1: Bausatz-Gesamtinhalt
+#2: Idler jetzt F625zz
+#3: Idler zusammengebaut in F625zz
+#4: Y Motor + neuer Pulley
+#5: Y Motor + neuer Pulley montiert
+#6: Alu Heatbed + wooden plate + clips
+#7: clipping alu heatbed to wooden plate
+#8: Drill a hole in the wooden plate for the heatbed
