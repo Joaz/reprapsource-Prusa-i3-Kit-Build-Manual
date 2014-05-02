@@ -7,8 +7,22 @@ working with wood and let you assemble the hardware bits. But we've taken out th
 bits that normally requires soldering and ship them preassembled.
 
 
-FOTO(1): Inhalt des Kits
-[<img src="Prev/IMG_0396.JPG">](Large/IMG_0396.JPG)
+[<img src="Prev/IMG_1559.JPG">](Large/IMG_1559.JPG)
+
+
+TODO: kit content chapter
+
+# Y idler and motor preparation
+##Parts:
+[<img src="Prev/IMG_1710.JPG">](Large/IMG_1710.JPG)
+Y axis idler printed part
+Y axis motor holder
+2x F624 bearing
+1x M4x30 
+1x M4x20
+1x washer M4
+2x M4
+2x M3x10
 
 
 
