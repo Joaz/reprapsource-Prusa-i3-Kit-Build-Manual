@@ -25,79 +25,73 @@ Y axis motor holder
 2x M3x10
 
 
-
-#Y axis base frame assembly
-##Tools needed:
-2 x size 13 wrenches 
-OR 1 adjustable wrench and one size 13 wrench  
-Calipers
-tape measure or a ruler  
-
-##Parts:
-[<img src="Prev/IMG_0498.JPG">](Large/IMG_0498.JPG)  
-4 x 200mm threaded M8 rods  
-2 x 500mm threaded M10 rods  
-2 x 470mm3 smooth rods (Ø 10 mm)  
-1 bag of screws, nuts and washers  
-4 x Y-axis corners  
-Y-axis motor holder  
-Y-axis drivetrain + belt tensioner  
-
 #To Do:
-[<img src="Prev/IMG_0499.JPG">](Large/IMG_0499.JPG)  
-1. Take the four short rods, a M4 nut and motor holder and drivetrain.  
+[<img src="Prev/IMG_1725.JPG">](Large/IMG_1725)  
+1. Take a stepper motor, the Y axis motor holder printed part and two M3x10 bolts. Mount it to the motor as shown. 
+Set aside for later.
 
-[<img src="Prev/IMG_0501.JPG">](Large/IMG_0501.JPG)  
-[<img src="Prev/IMG_0502.JPG">](Large/IMG_0502.JPG)  
-2. Push the nut into the nut trap of the drivetrain. (You will not reach this nut trap easily later on.) Through this construction, the drivetrain can be used to adjust the tension oft he Y-axis belt.  
+[<img src="Prev/IMG_1730.JPG">](Large/IMG_1730.JPG)   
+2. Push the nut into the nut trap of the y idler printed part.
+[<img src="Prev/IMG_1734.JPG">](Large/IMG_1734.JPG)   
+[<img src="Prev/IMG_1738.JPG">](Large/IMG_1738.JPG)   
+3. Insert a M4x20 bolt through the part as shown.
 
-[<img src="Prev/IMG_0503.JPG">](Large/IMG_0503.JPG)  
-3. Slide two of the short rods through M8 sized holes of the Y-axis motor holder.  
-4. Slide one rod through the M8 opening of the drivetrain.  
-5. Pick 4 M8 nuts and washers.  
-6. Slide a washer and a nut on to each side of the motor holder.  
+[<img src="Prev/IMG_1745.JPG">](Large/IMG_1745.JPG)   
+[<img src="Prev/IMG_1751.JPG">](Large/IMG_1751.JPG)   
+4. Take a M4x30 bolt, two F624ZZ bearing, one washer and two M4 nuts. Assemble as shown. Put an M4 washer in the middle of the bearings and make sure to secure the two nuts against each other. Make sure the bearings spin freely after tightening.
 
-[<img src="Prev/IMG_0505.JPG">](Large/IMG_0505.JPG)  
-[<img src="Prev/IMG_0506.JPG">](Large/IMG_0506.JPG)  
-7. Pick 2 M8 nuts and washers.  
-8. Slide a washer and a nut on to each side of the drivetrain.  
+# Y axis assembly
+##Parts:
+[<img src="Prev/IMG_1762.JPG">](Large/IMG_1762.JPG)
+Previously assembled Y-motor and Y-idler
+4x printed Y corners
+4x M8x200 rods
+22x M8 nuts
+22x M8 washers
 
-[<img src="Prev/IMG_0507.JPG">](Large/IMG_0507.JPG)  
-9. Now you need 16 M8 nuts and washers, the corner pieces and the short rods.  
+##To Do:
+[<img src="Prev/IMG_1768.JPG">](Large/IMG_1768.JPG)
+1. Slide M8 nuts and washers to the M8x200 rods as shown
+[<img src="Prev/IMG_1775.JPG">](Large/IMG_1775.JPG)
+2. Add the previously assembled Y idler and Y motor assembly. The Y motor assembly slides into two rods.
+3. Add washers and nuts as shown in the picture. Only hand-tighten them right now.
 
-[<img src="Prev/IMG_0508.JPG">](Large/IMG_0508.JPG)  
-10. Attach the corner pieces similar to the motor holder/drivetrain, so that each piece is wrapped in washers and then in nuts. (The upper rod fitting of the corner pieces are open on one side and should face in one direction. For the motor holder the opening should face into the direction of motor connection points.)
-
-[<img src="Prev/IMG_0515.JPG">](Large/IMG_0515.JPG)  
-11. Adjust the distance between the corner pieces. 11,5 cm is a good value to go with. It is important to keep the distance exactly even for the two end segements of the  Y-axis you now have created. You want your Y-axis to be square.  
+[<img src="Prev/IMG_1777.JPG">](Large/IMG_1777.JPG)
+4. Add the Y corners to the rods. Make sure the open side to the top of those parts point in the same direction and:
+- for the assembly with the motor: Open side points towards the side of the motor shaft 
+- for the assembly with idler: Open side points towards the side of the ball bearings
+5. Add washers and nuts as shown. Only hand-tighten them right now.
+[<img src="Prev/IMG_1789.JPG">](Large/IMG_1789.JPG)
+[<img src="Prev/IMG_1795.JPG">](Large/IMG_1795.JPG)
+6. Slide the two assemblies through 2 M10 rods and tighten the M8 nuts on the corner parts.
+[<img src="Prev/IMG_1804.JPG">](Large/IMG_1804.JPG)
+7. Remove the M10 rods again.
 
 [<img src="Prev/IMG_0510.JPG">](Large/IMG_0510.JPG)  
-12. Take the two long threaded M10 rods, 8 M10 nuts and washers.  
+8. Take the two M10 rods and 8 M10 nuts and washers.  
 
 [<img src="Prev/IMG_0511.JPG">](Large/IMG_0511.JPG)  
-13. Slide on a washer, two nuts and a washer from each end of the rod.  
+9. Slide on the nuts and washers as shown. Only approximate the position as shown on the picture.  
+[<img src="Prev/IMG_1812.JPG">](Large/IMG_1812.JPG)
+10. Slide the M10 rods through the bottom holes of motor holder segment and attach them with a washer and a nut.  
 
-[<img src="Prev/IMG_0512.JPG">](Large/IMG_0512.JPG)  
-[<img src="Prev/IMG_0513.JPG">](Large/IMG_0513.JPG)  
-14. Slide the M10 rods through the bottom holes of motor holder segment and attach them with a washer and a nut.  
+[<img src="Prev/IMG_1815.JPG">](Large/IMG_1815.JPG)
+11. Pick the two 470mm smooth rods and 3 LM10UU bearings. On one smooth rod, slide one LM10UU on it, on the other slide two LM10UU on it.
+[<img src="Prev/IMG_1821.JPG">](Large/IMG_1821.JPG)
+12. Put the the smooth rods onto the Y corners. Adjust the position of the Y corners according to the smooth rods, then carefully push the rods down on every side. They will require some force to snap into it.
+[<img src="Prev/IMG_1829.JPG">](Large/IMG_1829.JPG)
+13. After the rods are inserted, tighten the M10 nuts on the Y corners. 
 
-[<img src="Prev/IMG_0518.JPG">](Large/IMG_0518.JPG)  
-15. Pick the two smooth rods and slide them in the upper openings of the motor holder segment.
+# Attach Y motor pulley
+##Parts:
+[<img src="Prev/IMG_1834.JPG">](Large/IMG_1834.JPG)
+Y axis from last step
+1x Pulley
+2x M3x4 grub screws
 
-[<img src="Prev/IMG_0519.JPG">](Large/IMG_0519.JPG)  
-16. Slide two bearings on rod and one bearing on the other rod.  
-
-[<img src="Prev/IMG_0525.JPG">](Large/IMG_0525.JPG)  
-17. Use to wrenches and tighten all inner and outer nuts against the printed parts. (Make sure to keep the distances you measured.)  
-
-FOTO2
-FOTO3
-[<img src="Prev/IMG_0520.JPG">](Large/IMG_0520.JPG)  
-[<img src="Prev/IMG_0521.JPG">](Large/IMG_0521.JPG)  
-18. Attach the drivetrain segment on the other side of your rods and slide them in. Attach the threaded rods with a washer and a nut.  
-19. Use two 624 bearings, a M4 bolt and nut to attach an idler bearing to the drivetrain. Use a second nut to counter the first nut.  
-
-**WARNING:** The smooth rods sit pretty tight in their openings an it is important to slide them in. Do not push them in from the top! This could damage the printed partrs seriously.  
+##To Do:
+[<img src="Prev/IMG_1840.JPG">](Large/IMG_1840.JPG)
+1. Slide the pulley onto the motor shaft as shown and tighten it with two M3x4 grub screws. Leave a bit of space between the motor body and the pulley.
 
 #Y-Axis bed holders and motor
 ##Tools needed:
