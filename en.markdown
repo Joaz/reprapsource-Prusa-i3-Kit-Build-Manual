@@ -714,33 +714,24 @@ X,Y,Z endstop holder
 
 [<img src="Prev/DSC01017.JPG">](Large/DSC01017.JPG)  
 2. Put a nut into each nut trap of the endstop holders.  
-3. Attach the z-endstop below the x-motor on the z-rod with a M3x20 mm. The z-endstop is the printed part that is bigger. X and Y endstop holder look similar.  
-4. Attach the x-endstop on the lower rod of the x-axis close to the x-motor.  
-5. Attach the y-endstop on the rod closer to the electronics on the y-axis in fromt of the y-motor.  
+
+3. Attach the x-endstop on the lower rod of the x-axis close to the x-motor and put a M3x20 bolt through, but don't tighten it yet.
+
+4. Attach the y-endstop on the left rod close to the Y motor and put a M3x20 bolt through, but don't tighten it yet.
+
+
+[<img src="Prev/IMG_1980.JPG">](Large/IMG_1980.JPG)  
+5. Attach the z-endstop below the x-motor on the z-rod with a M3x20 mm. The z-endstop is the printed part that is bigger. Don't fully tighten the bolt yet.
 
 [<img src="Prev/DSC01025.JPG">](Large/DSC01025.JPG)  
-6. Attach the endstop cables to the micro switches and the electronics. The yellow wire should be put on signal.  
-7. Use big cable tube or zip ties to fit endstop cables in other cable looms if appropriate. For example join the x-endstop with the x-motor cable.  
-PHOTOS OF ENDSTOP POSITION MISSING
+6. Attach the endstop cables to the micro switches and the electronics. The yellow wire should be put on signal and S on the RAMPS board.  
 
-**IMPORTANT:** Watch carefully. The pin assignement is printed on the circuit board. Use a magnifier if text size is to small for you. Wrong connection of this cables can seriously damage your electronics!
+7. Use big cable tube or zip ties to fixate the endstop cables in other cable looms if appropriate. For example join the x-endstop with the x-motor cable.  
 
-#Attach Carbon build plate
-##Tools needed:
-Hands  
-
-##Parts:
-[<img src="Prev/DSC01019.JPG">](Large/DSC01019.JPG)  
-Paper clips  
-Carbon build plate  
-
-##To Do:
-[<img src="Prev/DSC01021.JPG">](Large/DSC01021.JPG)  
-1. Put the carbon build plate on the heat bed and attach it with the four paper clips.  
 
 #Software Setup
 ##Tools needed:
-Brain  
+Brain, Patience
 
 ##Parts:
 USB cable  
