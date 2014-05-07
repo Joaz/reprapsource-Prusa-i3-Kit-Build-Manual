@@ -526,20 +526,24 @@ Hex Wrench (2,5)
 Wrench  5,5 mm
 
 ##Parts:
+Heatbed
+Laminated carbon plate
+4x bulldog clips
 4 x M3 x 30 mm screws  
 4 x M3 nuts  
-8 x M4 nuts  
+12 x M4 nuts  
 
 ##To Do:
-[<img src="Prev/IMG_2769.JPG">](Large/IMG_2769.JPG)  
-1. Put a screw through the wooden print bed base from the bottom.  
+[<img src="Prev/IMG_1955.JPG">](Large/IMG_1955.JPG)
+1. Put the top of the heatbed (blank aluminium) onto the y-axis
+  
+[<img src="Prev/IMG_1977.JPG">](Large/IMG_1977.JPG)  
+2. Put a M4x30 bolt through the top of the heatbed and put 3 M4 nuts through it. The bolt will slide through the nuts. On the bottom of the plate, put a M3 bolt.
+3. Repeat for all sides
+4. Tighten all the M3 nuts on bottom of the plate.
 
-[<img src="Prev/IMG_2770.JPG">](Large/IMG_2770.JPG)  
-2. Put two M4 nuts over the screw as spacers.  
-
-[<img src="Prev/IMG_2772.JPG">](Large/IMG_2772.JPG)  
-3. Put on the heatbed and finish this with a M3 nut. Do not tighten, because you need to repeat this for the other three corners. (The heatbed cables should face into the direction of Y-Axis motor.)  
-4. After all corners are attached, you can tighten the M3s.  
+[<img src="Prev/IMG_1969.JPG">](Large/IMG_1969.JPG)  
+5. Add the laminated carbon plate on top of the aluminium plate and clamp it on with bulldog clips.
 
 #Wiring (Adjust motor cable length and solder motor plugs)
 ##Tools needed:
