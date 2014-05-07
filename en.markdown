@@ -111,15 +111,6 @@ Hex Wrench (1,5; 2,5)
 1. Place the three holders above the linear bearings and snap them into place as shown.  
 2. Take the M3 nuts and bolt to attach the lower clamp like part of the print bed holder tighter to the bearing –do not tighten to much – tighten them later if necessary.  
 
-[<img src="Prev/IMG_0524.JPG">](Large/IMG_0524.JPG)  
-[<img src="Prev/IMG_0526.JPG">](Large/IMG_0526.JPG)  
-3. Take one NEMA17 motor and two M3x10 bolts and attach the motor to the motor holder. Wires should be facing the bearings.  
-
-FOTO4 
-FOTO5
-[<img src="Prev/IMG_0527.JPG">](Large/IMG_0527.JPG)  
-[<img src="Prev/IMG_0530.JPG">](Large/IMG_0530.JPG)  
-4. Take the pulley and attach it to the motor shaft. Make sure the setscrew on the pulley aligns with the flattened side of the motor shaft.  
 
 #Y-Axis plate
 ##Tools needed:
@@ -130,24 +121,20 @@ masking tape
 ruler  
 
 ##Parts:
-FOTO 6
-[<img src="Prev/IMG_0531.JPG">](Large/IMG_0531.JPG)  
+[<img src="Prev/IMG_1846.JPG">](Large/IMG_1846.JPG)  
 Heatbed  
 225x225 mm wooden plate  
 4 bulldog clamps  
 
 ##To Do:
-FOTO 7
-[<img src="Prev/IMG_0532.JPG">](Large/IMG_0532.JPG)  
+[<img src="Prev/IMG_1851.JPG">](Large/IMG_1851.JPG)  
 1. Use the 4 clamps to attach the heated bed PCB to the square wooden plate (smooth side (top) up).  
-Foto 8
-[<img src="Prev/IMG_0533.JPG">](Large/IMG_0533.JPG)  
 2. Use the scrapwood as base and drill through all 4 corner holes of the heatbed and the wooden plate.  
 
 [<img src="Prev/IMG_0534.JPG">](Large/IMG_0534.JPG)  
 3. Remove the clamps and mark the direction in which the heatbed cables pointed when you drilled the holes.  
 
-[<img src="Prev/baseplate.JPG">](Large/baseplate.JPG)  
+[<img src="Prev/baseplate.jpg">](Large/baseplate.jpg)  
 4. Turn the wooden plate upside down. You know see the rough side (bottom). Use a ruler to mark the middle of the plate and draw a line. (Your marking for the cables should be on the left side of the ruler)  
 5. Without lifting the ruler, make a mark at 112mm from the edge, and another mark at 20mm from the edge.  
 6. Position your ruler on the 20mm mark, and draw a line parallel to the edge of the square plate.  
@@ -176,7 +163,7 @@ Screwdriver
 7. Position and mount the top left part the same way. Make sure they are both aligned with the horizontal line.  
 8. Now add the bottom two screws.  
 
-[<img src="Prev/IMG_0538.JPG">](Large/IMG_0538.JPG)  
+[<img src="Prev/IMG_1860.JPG">](Large/IMG_1860.JPG)  
 9. Flip the axis, test it.  The printbed should move freely.  
 
 **WARNING:** Be careful - do not drill through the wooden plate. Primary drilling secures, that the wood screws set in exact positions.  
@@ -212,10 +199,6 @@ Y-belt clamp
 [<img src="Prev/IMG_0545.JPG">](Large/IMG_0545.JPG)  
 8. Insert the belt on both sides so that it's tight.
 
-[<img src="Prev/IMG_0546.JPG">](Large/IMG_0546.JPG)    
-[<img src="Prev/IMG_0547.JPG">](Large/IMG_0547.JPG)    
-9. Insert M4 x 20 into belt tensioner.  
-
 #X-Axis assembly - prepare printed parts 
 ##Tools needed:
 Sidecutter  
@@ -227,21 +210,24 @@ X-Axis idler
 X-Axis carriage  
 X-Axis motor holder  
 2 x M5 nuts  
-1 x M5 x 20 (or 16) screw  
+1 x M5 bolt  
 6x LM10UU bearings  
 
 ##To Do:
 [<img src="Prev/IMG_0550.JPG">](Large/IMG_0550.JPG)    
 1. Remove the two support ridges from the X-Axis idler with a sidecutter.  
 
-[<img src="Prev/IMG_0551.JPG">](Large/IMG_0551.JPG)    
-[<img src="Prev/IMG_0553.JPG">](Large/IMG_0553.JPG)    
+
+[<img src="Prev/IMG_1869.JPG">](Large/IMG_1869.JPG)    
+[<img src="Prev/IMG_1874.JPG">](Large/IMG_1874.JPG)    
+2. Use the M5 bolt to securely insert the M5 nut into the nut trap. Then remove the bolt.
+
 [<img src="Prev/IMG_0554.JPG">](Large/IMG_0554.JPG)    
-2. Insert the nuts into the nut traps of the X-Axis motor holder and X-Axis idler.  
+3. Repeat for the other X end. 
 
 [<img src="Prev/IMG_0555.JPG">](Large/IMG_0555.JPG)    
 [<img src="Prev/IMG_0556.JPG">](Large/IMG_0556.JPG)    
-3. Slide in the LM10UU bearings into the printed parts with reasonable force if necessary.  
+3. Slide in the LM10UU bearings into the printed parts with reasonable force. Insert a smooth rods into the bearings before doing so if necessary.
 
 #X-Axis assembly - Attach printed parts
 ##Tools needed:
@@ -263,53 +249,51 @@ Hex wrench (1,5; 2,5)
 Screwdriver (PH2)  
 
 ##Parts:
-[<img src="Prev/IMG_0559.JPG">](Large/IMG_0559.JPG)  
+[<img src="Prev/IMG_1934.JPG">](Large/IMG_1934.JPG)  
 1 x NEMA17 motor  
 3 x M3x10 bolt  
 1 x Pulley  
 2 x grub screw   
 
 ##To Do:
-[<img src="Prev/IMG_0560.JPG">](Large/IMG_0560.JPG)  
+[<img src="Prev/IMG_1943.JPG">](Large/IMG_1973.JPG)  
 1. Place the motor so that the wire harness is facing in the opposite direction of the small arm of the X-Axis motor holder.  
 2. Attach the 3 M3x10 screws.  
-
-[<img src="Prev/IMG_0561.JPG">](Large/IMG_0561.JPG)  
-3. Slide on the pulley. Leave a small gap between pulley and motor body.  
-4. Use the grub screws to attach the pulley to the motor shaft. Make sure the screw on the pulley aligns with the flattened side of the motor shaft.  
+3. Slide on the pulley as shown. Leave a small gap between pulley and motor body.  
+4. Use the grub screws to attach the pulley to the motor shaft. 
 
 #X-Axis assembly - Attach X-Axis belt tensioner
 ##Tools needed:
 Hex wrench  (2,5)
 2x 13 mm wrench  
 ##Parts:
-[<img src="Prev/IMG_0562.JPG">](Large/IMG_0562.JPG)  
+[<img src="Prev/IMG_1894.JPG">](Large/IMG_1894.JPG)  
 X-Axis belt tensioner  
-2 x 624 bearings  
+2 x F624 bearings  
 4 x M4 nuts  
 2 x M4x30 screws  
 1 x M4x20 screw  
+1x M4 washer
 
 ##To Do:
 [<img src="Prev/IMG_0563.JPG">](Large/IMG_0563.JPG)  
-1. Slide nut into nuttrap.  
+[<img src="Prev/IMG_1900.JPG">](Large/IMG_1900.JPG)  
+1. Slide a M4 nut into the nuttrap of the belt tensioner and insert the M4x20 bolt.  
 
-[<img src="Prev/IMG_0566.JPG">](Large/IMG_0566.JPG)  
-2. Slide in M4x30 screw and put on the two bearings.  
-3.  Put on a nut and counter it with a second nut.  
-
-[<img src="Prev/IMG_0568.JPG">](Large/IMG_0568.JPG)  
-4. Screw in the M4x20 screw. This is the belt tensioner setscrew.  
+[<img src="Prev/IMG_1908.JPG">](Large/IMG_1908.JPG)  
+[<img src="Prev/IMG_1915.JPG">](Large/IMG_1915.JPG)  
+2. Slide in M4x30 screw and put on the two bearings with a washer in the middle as shown.  
+3. Put on two M4 nuts and tighten them against each other. Make sure that the bearings move.
 
 [<img src="Prev/IMG_0569.JPG">](Large/IMG_0569.JPG)  
-5. Combine the belt tensioner with the X-Axis idler.  
+4. Insert the belt tensioner into the X idler.  
 
 [<img src="Prev/IMG_0570.JPG">](Large/IMG_0570.JPG)  
-6. Connect both parts with the M4x30 screw and nut.  
+5. Connect both parts with the M4x30 screw and nut.  
 
 #Frame assembly
-[<img src="Prev/Frame_02.JPG">](Large/Frame_02.JPG)  
-##Tools needed:
+[<img src="Prev/Frame_02.png">](Large/Frame_02.png)  
+##Tools needed: 
 Screwdriver  
 3 or (better) 3,2 mm drill bit and drill  
 Countersink bit  
