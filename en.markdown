@@ -10,31 +10,32 @@ bits that normally requires soldering and ship them preassembled.
 [<img src="Prev/IMG_1559.JPG">](Large/IMG_1559.JPG)
 
 
-TODO: kit content chapter
-
 # Y idler and motor preparation
 ##Parts:
 [<img src="Prev/IMG_1710.JPG">](Large/IMG_1710.JPG)
-Y axis idler printed part
-Y axis motor holder
-2x F624 bearing
-1x M4x30 
-1x M4x20
-1x washer M4
-2x M4
-2x M3x10
+
+Y axis idler printed part  
+Y axis motor holder     
+2x F624 bearing     
+1x M4x30    
+1x M4x20    
+1x washer M4    
+2x M4   
+2x M3x10    
 
 
 #To Do:
-[<img src="Prev/IMG_1725.JPG">](Large/IMG_1725)  
+[<img src="Prev/IMG_1725.JPG">](Large/IMG_1725)     
 1. Take a stepper motor, the Y axis motor holder printed part and two M3x10 bolts. Mount it to the motor as shown. 
 Set aside for later.
 
-[<img src="Prev/IMG_1730.JPG">](Large/IMG_1730.JPG)   
+[<img src="Prev/IMG_1730.JPG">](Large/IMG_1730.JPG)          
 2. Push the nut into the nut trap of the y idler printed part.
-[<img src="Prev/IMG_1734.JPG">](Large/IMG_1734.JPG)   
-[<img src="Prev/IMG_1738.JPG">](Large/IMG_1738.JPG)   
-3. Insert a M4x20 bolt through the part as shown.
+
+[<img src="Prev/IMG_1734.JPG">](Large/IMG_1734.JPG)     
+  
+[<img src="Prev/IMG_1738.JPG">](Large/IMG_1738.JPG)     
+3. Insert a M4x20 bolt through the part as shown.   
 
 [<img src="Prev/IMG_1745.JPG">](Large/IMG_1745.JPG)   
 [<img src="Prev/IMG_1751.JPG">](Large/IMG_1751.JPG)   
@@ -42,29 +43,37 @@ Set aside for later.
 
 # Y axis assembly
 ##Parts:
-[<img src="Prev/IMG_1762.JPG">](Large/IMG_1762.JPG)
-Previously assembled Y-motor and Y-idler
-4x printed Y corners
-4x M8x200 rods
-22x M8 nuts
-22x M8 washers
+[<img src="Prev/IMG_1762.JPG">](Large/IMG_1762.JPG) 
+
+Previously assembled Y-motor and Y-idler    
+4x printed Y corners    
+4x M8x200 rods  
+22x M8 nuts     
+22x M8 washers  
 
 ##To Do:
-[<img src="Prev/IMG_1768.JPG">](Large/IMG_1768.JPG)
+[<img src="Prev/IMG_1768.JPG">](Large/IMG_1768.JPG)     
 1. Slide M8 nuts and washers to the M8x200 rods as shown
-[<img src="Prev/IMG_1775.JPG">](Large/IMG_1775.JPG)
+
+[<img src="Prev/IMG_1775.JPG">](Large/IMG_1775.JPG)     
 2. Add the previously assembled Y idler and Y motor assembly. The Y motor assembly slides into two rods.
 3. Add washers and nuts as shown in the picture. Only hand-tighten them right now.
 
-[<img src="Prev/IMG_1777.JPG">](Large/IMG_1777.JPG)
+[<img src="Prev/IMG_1777.JPG">](Large/IMG_1777.JPG)     
 4. Add the Y corners to the rods. Make sure the open side to the top of those parts point in the same direction and:
-- for the assembly with the motor: Open side points towards the side of the motor shaft 
+
+
+- for the assembly with the motor: Open side points towards the side of the motor shaft
+
 - for the assembly with idler: Open side points towards the side of the ball bearings
-5. Add washers and nuts as shown. Only hand-tighten them right now.
-[<img src="Prev/IMG_1789.JPG">](Large/IMG_1789.JPG)
-[<img src="Prev/IMG_1795.JPG">](Large/IMG_1795.JPG)
+  
+ 
+5\. Add washers and nuts as shown. Only hand-tighten them right now.
+
+[<img src="Prev/IMG_1789.JPG">](Large/IMG_1789.JPG)     
+[<img src="Prev/IMG_1795.JPG">](Large/IMG_1795.JPG)     
 6. Slide the two assemblies through 2 M10 rods and tighten the M8 nuts on the corner parts.
-[<img src="Prev/IMG_1804.JPG">](Large/IMG_1804.JPG)
+[<img src="Prev/IMG_1804.JPG">](Large/IMG_1804.JPG)     
 7. Remove the M10 rods again.
 
 [<img src="Prev/IMG_0510.JPG">](Large/IMG_0510.JPG)  
@@ -72,25 +81,27 @@ Previously assembled Y-motor and Y-idler
 
 [<img src="Prev/IMG_0511.JPG">](Large/IMG_0511.JPG)  
 9. Slide on the nuts and washers as shown. Only approximate the position as shown on the picture.  
-[<img src="Prev/IMG_1812.JPG">](Large/IMG_1812.JPG)
+[<img src="Prev/IMG_1812.JPG">](Large/IMG_1812.JPG)     
 10. Slide the M10 rods through the bottom holes of motor holder segment and attach them with a washer and a nut.  
 
-[<img src="Prev/IMG_1815.JPG">](Large/IMG_1815.JPG)
+[<img src="Prev/IMG_1815.JPG">](Large/IMG_1815.JPG)     
 11. Pick the two 470mm smooth rods and 3 LM10UU bearings. On one smooth rod, slide one LM10UU on it, on the other slide two LM10UU on it.
-[<img src="Prev/IMG_1821.JPG">](Large/IMG_1821.JPG)
+
+[<img src="Prev/IMG_1821.JPG">](Large/IMG_1821.JPG)     
 12. Put the the smooth rods onto the Y corners. Adjust the position of the Y corners according to the smooth rods, then carefully push the rods down on every side. They will require some force to snap into it.
-[<img src="Prev/IMG_1829.JPG">](Large/IMG_1829.JPG)
+
+[<img src="Prev/IMG_1829.JPG">](Large/IMG_1829.JPG)     
 13. After the rods are inserted, tighten the M10 nuts on the Y corners. 
 
 # Attach Y motor pulley
 ##Parts:
-[<img src="Prev/IMG_1834.JPG">](Large/IMG_1834.JPG)
-Y axis from last step
-1x Pulley
-2x M3x4 grub screws
+[<img src="Prev/IMG_1834.JPG">](Large/IMG_1834.JPG)     
+Y axis from last step       
+1x Pulley       
+2x M3x4 grub screws     
 
 ##To Do:
-[<img src="Prev/IMG_1840.JPG">](Large/IMG_1840.JPG)
+[<img src="Prev/IMG_1840.JPG">](Large/IMG_1840.JPG)     
 1. Slide the pulley onto the motor shaft as shown and tighten it with two M3x4 grub screws. Leave a bit of space between the motor body and the pulley.
 
 #Y-Axis bed holders and motor
@@ -340,7 +351,7 @@ Position of all frame screws.
 [<img src="Prev/IMG_0586.JPG">](Large/IMG_0586.JPG)  
 13. Press the frame sides flush against the panel, put two more screws in on each side, this time on the side of the panel.  
 
-[<img src="Prev/IMG_0587.JPG">](Large/IMG_0587.JPG) 
+[<img src="Prev/IMG_0587.JPG">](Large/IMG_0587.JPG)     
 [<img src="Prev/IMG_0588.JPG">](Large/IMG_0588.JPG)   
 14. Put your frame piece flat on the table and align the last 450mm panel with open edge of the frame. (Opposite the panel you recently attached.)  
 15. Keeping it aligned, drill, countersink, and add a screw on the inside corner of the panel. Be careful not to drill through both panels into your table. Repeat this on the other side of the frame.  
@@ -526,52 +537,24 @@ Hex Wrench (2,5)
 Wrench  5,5 mm
 
 ##Parts:
-Heatbed
-Laminated carbon plate
-4x bulldog clips
-4 x M3 x 30 mm screws  
-4 x M3 nuts  
-12 x M4 nuts  
+Heatbed     
+Laminated carbon plate      
+4x bulldog clips        
+4 x M3 x 30 mm screws        
+4 x M3 nuts         
+12 x M4 nuts        
 
 ##To Do:
-[<img src="Prev/IMG_1955.JPG">](Large/IMG_1955.JPG)
+[<img src="Prev/IMG_1955.JPG">](Large/IMG_1955.JPG)     
 1. Put the top of the heatbed (blank aluminium) onto the y-axis
   
-[<img src="Prev/IMG_1977.JPG">](Large/IMG_1977.JPG)  
+[<img src="Prev/IMG_1977.JPG">](Large/IMG_1977.JPG)            
 2. Put a M4x30 bolt through the top of the heatbed and put 3 M4 nuts through it. The bolt will slide through the nuts. On the bottom of the plate, put a M3 bolt.
 3. Repeat for all sides
 4. Tighten all the M3 nuts on bottom of the plate.
 
-[<img src="Prev/IMG_1969.JPG">](Large/IMG_1969.JPG)  
+[<img src="Prev/IMG_1969.JPG">](Large/IMG_1969.JPG)       
 5. Add the laminated carbon plate on top of the aluminium plate and clamp it on with bulldog clips.
-
-#Wiring (Adjust motor cable length and solder motor plugs)
-##Tools needed:
-Sidecutter  
-Wire stripper  
-Soldering iron and solder  
-Zipties    
-polyimide tape  
-Heat Gun/Lighter  
-
-##Parts:
-Endstop cables  
-Motor cables  
-Shrink tubing 
-small cable bundle tube  
-
-##To Do:
-[<img src="Prev/IMG_2778.JPG">](Large/IMG_2778.JPG)  
-1. The electronic sits behind the frame on one side with the Z and X motor under the upper plate. (I further will call this the electronic side.) If you measure the cable length of the motor cables, make sure that they are long enough. Maybe it is necessary to place the electronics a little bit deeper on the panel, so that the cable length is sufficient.  
-
-[<img src="Prev/IMG_2774.JPG">](Large/IMG_2774.JPG)  
-[<img src="Prev/IMG_2775.JPG">](Large/IMG_2775.JPG)  
-2. Move the heatbed cables (thermistor included) towards the electronic side and ziptie them to the corresponding corner screw of the heatbed.  
-3. Now it is time to adjust the length of the motor cables and connect a plug to the end.  
-
-[<img src="Prev/IMG_2782f.JPG">](Large/IMG_2782f.JPG)  
-4. Watch the graphic for the recommended cable run.  
-
 
 
 #Assemble Extruder idler
@@ -612,7 +595,7 @@ Idler
 large cable bundle tube  
 
 ##To Do:
-[<img src="Prev/IMG_2830.JPG">](Large/IMG_2830.JPG)
+[<img src="Prev/IMG_2830.JPG">](Large/IMG_2830.JPG)     
 [<img src="Prev/IMG_2833.JPG">](Large/IMG_2833.JPG)    
 1. Use the large cable bundle tube to combine thermistor, hotend and motor cable.  
 
@@ -627,15 +610,11 @@ large cable bundle tube
 [<img src="Prev/IMG_2842.JPG">](Large/IMG_2842.JPG)  
 4. Attach the idler with the M3 x 25 to the extruder mount.  
 
-[<img src="Prev/IMG_2844.JPG">](Large/IMG_2844.JPG)  
-[<img src="Prev/IMG_2846.JPG">](Large/IMG_2846.JPG)  
+[<img src="Prev/IMG_2054.JPG">](Large/IMG_2054.JPG)  
+[<img src="Prev/IMG_2068.JPG">](Large/IMG_2068.JPG)  
 5. Slip the M4 x 60 through the idler and put on a spring and a nut.  
 
-
-# FIXME check this
-[BILD FEHLT]  
-10. Mount the Idler onto the extruder body by a M3x25 bolt. Don't tighten it too much, make sure it can move freely along the hinge.  
-11. Slide the M4x60 bolt through one of the hole on the wall opposite to the idler. Slide it through the idler, add the spring and the wing nut.  
+ 
 
 
 #Attach the electronics to the frame
@@ -667,9 +646,6 @@ Screwdriver (PH2)
 #Connect electronics
 ##Tools needed:
 Fingers  
-
-##Parts:
-ELECTRONICS PHOTO!  
 
 ##To Do:
 1. Attach motor cables.  
@@ -709,14 +685,16 @@ X,Y,Z endstop holder
 ##To Do:
 [<img src="Prev/DSC01013.JPG">](Large/DSC01013.JPG)  
 [<img src="Prev/DSC01014.JPG">](Large/DSC01014.JPG)  
-[<img src="Prev/DSC01015.JPG">](Large/DSC01015.JPG)  
+[<img src="Prev/DSC01015.JPG">](Large/DSC01015.JPG)     
 1. Screw one micro switch on to the flat side of each endstop holder with the M3x10 mm screws. The latch of the micro switch facing away from the part  
 
 [<img src="Prev/DSC01017.JPG">](Large/DSC01017.JPG)  
-2. Put a nut into each nut trap of the endstop holders.  
+2. Put a nut into each nut trap of the endstop holders.
 
+[<img src="Prev/IMG_2034.JPG">](Large/IMG_2034.JPG)  
 3. Attach the x-endstop on the lower rod of the x-axis close to the x-motor and put a M3x20 bolt through, but don't tighten it yet.
 
+[<img src="Prev/IMG_2036.JPG">](Large/IMG_2036.JPG)  
 4. Attach the y-endstop on the left rod close to the Y motor and put a M3x20 bolt through, but don't tighten it yet.
 
 
@@ -725,7 +703,6 @@ X,Y,Z endstop holder
 
 [<img src="Prev/DSC01025.JPG">](Large/DSC01025.JPG)  
 6. Attach the endstop cables to the micro switches and the electronics. The yellow wire should be put on signal and S on the RAMPS board.  
-
 7. Use big cable tube or zip ties to fixate the endstop cables in other cable looms if appropriate. For example join the x-endstop with the x-motor cable.  
 
 
@@ -764,8 +741,8 @@ Installed Printrun (Installing printrun means simply unzipping the file into a f
 ##Tools needed:
 Hex wrench  
 
-##Parts:
-Printrun  
+##Software:
+Pronterface  
 
 ##To Do:
 1. Start printrun and turn on the power supply of the printer.  
@@ -778,8 +755,8 @@ Printrun
 Hex wrench  
 2 sheets of paper  
 
-##Parts:
-Printrun  
+##Software:
+Pronterface  
 
 ##To Do:
 1. Put to sheets of paper over the carbon build plate.  
@@ -789,6 +766,19 @@ Printrun
 5. Move the hotend tip to all four corners of the carbon build plate. The paper should not be moved at any point by the hotend tip or even worse the hotend tip scratch into the carbon build plate. Adjust the height of the z-axis if necessary.  
 6. If you find the right position, move the z-endstop so that it is pressed by the x-motor carriage. This is now you z-home postion.  
 
-#Config slic3r for printing
+#Configure slic3r for printing
 
+##Software:
+Slic3r, Pronterface
+##To Do:
+1. Download our default Slic3r config for this machine [here](http://ext01.reprapsource.com/default_config_05mm_pla.ini) (right click -> save as)
+1. On the first run, Slic3r will show a configuration wizard. Press cancel
+
+1. Go to the Menu item "File" and select "Load config"
+1. Select the file that you've just downloaded and click on "Open"
+1. Now, you can load the STL file you wish to print into slic3r. It will shop the dimenstions on the screen
+1. Click on "Export G-Code". This will translate the stl into machine code. (This might take a while)
+1. After the export is done, open that gcode file in Pronterface and hit "Print"
+
+That's it. Your printer is now doing its first print.
 
